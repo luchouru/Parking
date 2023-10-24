@@ -1,0 +1,744 @@
+# depslib dependency file v1.0
+1663516106 source:c:\users\pablo\onedrive\escritorio\obligatorio2\hora.cpp
+	"hora.h"
+
+1663345708 c:\users\pablo\onedrive\escritorio\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1663356763 source:c:\users\pablo\onedrive\escritorio\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289077 c:\users\pablo\onedrive\escritorio\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1663344385 c:\users\pablo\onedrive\escritorio\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368688 c:\users\pablo\onedrive\escritorio\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368608 source:c:\users\pablo\onedrive\escritorio\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1663356763 source:c:\users\pablo\onedrive\escritorio\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289075 c:\users\pablo\onedrive\escritorio\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357351 source:c:\users\pablo\onedrive\escritorio\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352500 c:\users\pablo\onedrive\escritorio\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663356763 source:c:\users\pablo\onedrive\escritorio\obligatorio2\string.cpp
+	"string.h"
+
+1663602007 source:c:\users\pablo\onedrive\escritorio\obligatorio2\main.cpp
+	"estacionamiento.h"
+
+1663604358 source:c:\users\pablo\onedrive\escritorio\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1663604358 c:\users\pablo\onedrive\escritorio\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"boolean.h"
+	"string.h"
+	"hora.h"
+
+1663604594 source:c:\users\pablo\onedrive\escritorio\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1663603974 c:\users\pablo\onedrive\escritorio\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1663356764 source:d:\programacion 2 ude\obligatorio\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289078 d:\programacion 2 ude\obligatorio\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1663344386 d:\programacion 2 ude\obligatorio\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 d:\programacion 2 ude\obligatorio\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368610 source:d:\programacion 2 ude\obligatorio\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1663356764 source:d:\programacion 2 ude\obligatorio\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289076 d:\programacion 2 ude\obligatorio\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:d:\programacion 2 ude\obligatorio\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 d:\programacion 2 ude\obligatorio\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663633188 source:d:\programacion 2 ude\obligatorio\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1663603976 d:\programacion 2 ude\obligatorio\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1663633188 d:\programacion 2 ude\obligatorio\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"boolean.h"
+	"string.h"
+	"hora.h"
+
+1663345710 d:\programacion 2 ude\obligatorio\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1663633482 source:d:\programacion 2 ude\obligatorio\obligatorio2\hora.cpp
+	"hora.h"
+
+1663633200 source:d:\programacion 2 ude\obligatorio\obligatorio2\main.cpp
+	"estacionamiento.h"
+
+1663356764 source:d:\programacion 2 ude\obligatorio\obligatorio2\string.cpp
+	"string.h"
+
+1663633494 source:d:\programacion 2 ude\obligatorio\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1663694666 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289078 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1663694205 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368610 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1663694531 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289076 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663790548 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1663804740 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1663805618 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+
+1663773037 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1663694205 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\string.cpp
+	"string.h"
+
+1663773037 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\hora.cpp
+	"hora.h"
+
+1663717416 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1663893647 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1663715876 source:c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\menu.cpp
+	"menu.h"
+
+1663716222 c:\users\pablo\onedrive\escritorio\obligatorio2\obligatorio2\menu.h
+	<stdio.h>
+
+1663694668 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289078 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1664022236 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368610 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1663694532 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289076 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663975146 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\departamento.cpp
+	"departamento.h"
+
+1663975146 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1663978752 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1663978284 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1663953186 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1664022798 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\hora.cpp
+	"hora.h"
+
+1663715878 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\menu.cpp
+	"menu.h"
+
+1663716224 j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\menu.h
+	<stdio.h>
+
+1664022236 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\string.cpp
+	"string.h"
+
+1664022246 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1664022262 source:j:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+	"departamento.h"
+
+1663694668 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289078 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1663694206 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368610 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1663694532 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289076 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663975146 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\departamento.cpp
+	"departamento.h"
+
+1663975146 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1663978752 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1663978284 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1663953186 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1663976698 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\hora.cpp
+	"hora.h"
+
+1663979582 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+	"departamento.h"
+
+1663716224 d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\menu.h
+	<stdio.h>
+
+1663715878 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\menu.cpp
+	"menu.h"
+
+1663694206 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\string.cpp
+	"string.h"
+
+1663953186 source:d:\programacion 2 ude\obligatorio\obligatorio2\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1664034396 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1664034759 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1664209897 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663352502 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\boolean.h
+	<stdio.h>
+
+1663289078 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1664207272 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663289076 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663773038 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1663975146 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1663716224 c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\menu.h
+	<stdio.h>
+
+1663694668 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\auto.cpp
+	"auto.h"
+
+1663368610 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1664039221 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663357352 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663975146 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\departamento.cpp
+	"departamento.h"
+
+1664209849 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1664023052 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\hora.cpp
+	"hora.h"
+
+1663715878 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\menu.cpp
+	"menu.h"
+
+1664207272 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\string.cpp
+	"string.h"
+
+1664022246 source:c:\users\pablo\onedrive\escritorio\obligatorio2 (3)\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1663694668 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\auto.cpp
+	"auto.h"
+
+1663289078 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\auto.h
+	<stdio.h>
+	"string.h"
+
+1664207274 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\boolean.h
+	<stdio.h>
+
+1663368610 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\boolean.cpp
+	"boolean.h"
+
+1664039222 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\camioneta.cpp
+	"camioneta.h"
+
+1663289076 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1663975146 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\departamento.cpp
+	"departamento.h"
+
+1663975146 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1664209850 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\estacionamiento.cpp
+	"estacionamiento.h"
+
+1664034760 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1664209898 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1664023052 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\hora.cpp
+	"hora.h"
+
+1664213612 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1663716224 d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\menu.h
+	<stdio.h>
+
+1663715878 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\menu.cpp
+	"menu.h"
+
+1664207274 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\string.cpp
+	"string.h"
+
+1664022246 source:d:\programacion 2 ude\obligatorio\nueva carpeta\obligatorio\obligatorio2\vehiculo.cpp
+	"vehiculo.h"
+
+1663694668 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\auto.cpp
+	"auto.h"
+
+1663289078 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\auto.h
+	<stdio.h>
+	"string.h"
+
+1664207274 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\boolean.h
+	<stdio.h>
+
+1663368610 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\boolean.cpp
+	"boolean.h"
+
+1664039222 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\camioneta.cpp
+	"camioneta.h"
+
+1663289076 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1664213686 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\departamento.cpp
+	"departamento.h"
+
+1663975146 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1664209850 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\estacionamiento.cpp
+	"estacionamiento.h"
+
+1664034760 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1664209898 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1664023052 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\hora.cpp
+	"hora.h"
+
+1664213612 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1663716224 c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\menu.h
+	<stdio.h>
+
+1663715878 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\menu.cpp
+	"menu.h"
+
+1664207274 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\string.cpp
+	"string.h"
+
+1664022246 source:c:\users\merli\onedrive\escritorio\programacion 2\primer obligatorio\vehiculo.cpp
+	"vehiculo.h"
+
+1663694668 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\auto.cpp
+	"auto.h"
+
+1663289078 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\auto.h
+	<stdio.h>
+	"string.h"
+
+1664207274 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\boolean.h
+	<stdio.h>
+
+1663368610 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\boolean.cpp
+	"boolean.h"
+
+1664039222 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\camioneta.cpp
+	"camioneta.h"
+
+1663289076 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1663357352 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1664213686 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\departamento.cpp
+	"departamento.h"
+
+1663975146 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1664209850 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\estacionamiento.cpp
+	"estacionamiento.h"
+
+1664034760 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1664209898 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1664023052 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\hora.cpp
+	"hora.h"
+
+1664213612 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1663716224 c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\menu.h
+	<stdio.h>
+
+1663715878 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\menu.cpp
+	"menu.h"
+
+1664207274 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\string.cpp
+	"string.h"
+
+1664022246 source:c:\users\merli\onedrive\documentos\programacion 2\primer obligatorio\vehiculo.cpp
+	"vehiculo.h"
+
+1698107599 source:c:\users\merli\onedrive\escritorio\primer obligatorio\auto.cpp
+	"auto.h"
+
+1663289078 c:\users\merli\onedrive\escritorio\primer obligatorio\auto.h
+	<stdio.h>
+	"string.h"
+
+1698107391 c:\users\merli\onedrive\escritorio\primer obligatorio\string.h
+	<stdio.h>
+	"boolean.h"
+
+1663368690 c:\users\merli\onedrive\escritorio\primer obligatorio\boolean.h
+	<stdio.h>
+
+1698107618 source:c:\users\merli\onedrive\escritorio\primer obligatorio\boolean.cpp
+	"boolean.h"
+
+1698107646 source:c:\users\merli\onedrive\escritorio\primer obligatorio\camioneta.cpp
+	"camioneta.h"
+
+1663289076 c:\users\merli\onedrive\escritorio\primer obligatorio\camioneta.h
+	<stdio.h>
+	"string.h"
+
+1698107671 source:c:\users\merli\onedrive\escritorio\primer obligatorio\clasificacion.cpp
+	"clasificacion.h"
+
+1663352502 c:\users\merli\onedrive\escritorio\primer obligatorio\clasificacion.h
+	<stdio.h>
+	"boolean.h"
+
+1698107700 source:c:\users\merli\onedrive\escritorio\primer obligatorio\departamento.cpp
+	"departamento.h"
+
+1663975146 c:\users\merli\onedrive\escritorio\primer obligatorio\departamento.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1698176039 source:c:\users\merli\onedrive\escritorio\primer obligatorio\estacionamiento.cpp
+	"estacionamiento.h"
+
+1664034760 c:\users\merli\onedrive\escritorio\primer obligatorio\estacionamiento.h
+	<stdio.h>
+	"vehiculo.h"
+
+1664209898 c:\users\merli\onedrive\escritorio\primer obligatorio\vehiculo.h
+	<stdio.h>
+	"clasificacion.h"
+	"auto.h"
+	"camioneta.h"
+	"hora.h"
+	"Departamento.h"
+
+1663773038 c:\users\merli\onedrive\escritorio\primer obligatorio\hora.h
+	<stdio.h>
+	"boolean.h"
+
+1698107746 source:c:\users\merli\onedrive\escritorio\primer obligatorio\hora.cpp
+	"hora.h"
+
+1698175615 source:c:\users\merli\onedrive\escritorio\primer obligatorio\main.cpp
+	<stdlib.h>
+	"estacionamiento.h"
+	"menu.h"
+
+1663716224 c:\users\merli\onedrive\escritorio\primer obligatorio\menu.h
+	<stdio.h>
+
+1698107767 source:c:\users\merli\onedrive\escritorio\primer obligatorio\menu.cpp
+	"menu.h"
+
+1698176039 source:c:\users\merli\onedrive\escritorio\primer obligatorio\vehiculo.cpp
+	"vehiculo.h"
+
+1698107392 source:c:\users\merli\onedrive\escritorio\primer obligatorio\string.cpp
+	"string.h"
+
